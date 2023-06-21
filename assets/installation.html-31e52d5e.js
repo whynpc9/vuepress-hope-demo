@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as o,a as n}from"./app-7a831c81.js";const s={},a=n("p",null,"Install",-1),l=[a];function c(_,r){return e(),o("div",null,l)}const m=t(s,[["render",c],["__file","installation.html.vue"]]);export{m as default};
