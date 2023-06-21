@@ -2,14 +2,14 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
+    base: '/vuepress-hope-demo/',
 
-  lang: "en-US",
-  title: "Docs Demo",
-  description: "A docs demo for vuepress-theme-hope",
+    lang: 'en-US',
+    title: 'Docs Demo',
+    description: 'A docs demo for vuepress-theme-hope',
 
-  theme,
+    theme,
 
-  // Enable it with pwa
-  // shouldPrefetch: false,
+    // Enable it with pwa
+    // shouldPrefetch: false,
 });
